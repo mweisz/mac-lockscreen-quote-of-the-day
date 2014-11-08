@@ -8,4 +8,4 @@ Provides a 'Quote of the Day' feature for the logon/lock screen of OS X.
 ## Features
 
 ## Installation
-
+Add the script to your log off hook, so that it will change your quote whenever you log off. 
