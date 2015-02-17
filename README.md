@@ -7,6 +7,7 @@ Provides a 'Quote of the Day' feature for the logon/lock screen of OS X.
 
 ## Features
 -  Read random line from provided text file and set it as lock screen message
+-  Use publicly available quotation sources like Wikiquote.org
 
 ## Installation
 Add the script to your log off hook, so that it will change your quote whenever you log off. 
